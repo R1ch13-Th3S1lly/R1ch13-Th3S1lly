@@ -4,4 +4,4 @@
 
 <div align="center">
 
-${\ \color{blue}{when} {you're}  {blue}\ im\ \color{red}{red}\ }$
+${\ \color{blue}{when}\ you're blue, im\ \color{red}{red}\ }$
