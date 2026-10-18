@@ -4,4 +4,4 @@
 
 <div align="center">
 
-${\ \color{blue}{when}\ you're \ blue, im\ \color{red}{red}\ }$
+${\color{#547F91}{when}\ you're \ blue, \ \color{red}{im \ red.}\ \color{#7D6396}{i \ wanna \ kiss \ your \ neck}\ \color{#5E4873}{and \ make \ you \ purple \ all \ over.}}$
